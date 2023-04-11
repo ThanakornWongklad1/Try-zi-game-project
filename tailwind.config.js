@@ -14,6 +14,7 @@ export default {
       '4': '4px',
       '6': '6px',
       '8': '8px',
+      '10':'10px',
       '14': '14px',
     },
     dropShadow: {
@@ -31,5 +32,5 @@ export default {
       'yellow-plus':'#FFE7AB'
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }

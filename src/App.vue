@@ -1,10 +1,15 @@
 <script setup>
 import GamePage from './components/GamePage.vue';
+import FirstPage from './components/FirstPage.vue';
+import { RouterView } from 'vue-router';
+
 </script>
  
 <template>
   <div>
-    <GamePage />
+    <RouterView></RouterView>
+    <!-- <FirstPage /> -->
+    <!-- <GamePage /> -->
   </div>
 </template>
  
