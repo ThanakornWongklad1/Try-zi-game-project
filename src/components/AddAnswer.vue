@@ -32,7 +32,7 @@ const deletePrepareNumber = () => {
     props.prepareNumber.pop()
 }
 
-console.log(randomedNumber)
+// console.log(randomedNumber)
 
 
 const counter = ref(0)

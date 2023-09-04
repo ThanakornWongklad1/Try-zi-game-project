@@ -28,7 +28,9 @@ export default {
       'yellow-light':'#FFF6E3',
       'yellow-dark':'#EFB83B',
       'lightblue':'#0C8DCD',
+      'lightblue-hover':'#30B8FF',
       'lightred':'#F43232',
+      'lightred-hover':'#FF6751',
       'yellow-plus':'#FFE7AB'
     },
   },
